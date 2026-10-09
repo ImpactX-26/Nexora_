@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+color cyber_amber
+color cyber_bg
+color cyber_cyan
+color cyber_green
+color cyber_purple
+color cyber_red
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string app_tagline
+style Theme.LEADS

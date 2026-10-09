@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cyber_amber">#FFAB00</color>
+    <color name="cyber_bg">#0B0F19</color>
+    <color name="cyber_cyan">#00E5FF</color>
+    <color name="cyber_green">#00E676</color>
+    <color name="cyber_purple">#7C4DFF</color>
+    <color name="cyber_red">#FF5252</color>
+    <string name="app_name">LEADS</string>
+    <string name="app_tagline">AI-Powered Personal Cybersecurity Agent</string>
+    <style name="Theme.LEADS" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/cyber_bg</item>
+        <item name="android:navigationBarColor">@color/cyber_bg</item>
+    </style>
+</resources>
